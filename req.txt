@@ -1,0 +1,22 @@
+book detais
+auther detais
+publication details
+
+books and properties 
+-------------
+ISBN - string
+title - string
+authers - array
+language - string
+pubdate - string
+numOfPage - number
+category - array
+publication - number
+
+here 'ISBN' will be unique every book has its own 'ISBN' number 'authers'
+
+##authers
+--------
+id - number
+name - string
+books - array
